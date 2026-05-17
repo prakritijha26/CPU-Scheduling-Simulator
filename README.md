@@ -9,6 +9,18 @@ A CPU Scheduling Simulator implemented in C for Operating Systems concepts.
 - Round Robin
 - Priority Scheduling
 
+##Taking Input
+
+##FCFS Output
+
+##SJF Non Preemptive Output
+
+##SJF Preemptive Output
+
+##Round Robin Output
+
+##Priority Scheduling Output
+
 ## Features
 - Gantt Chart Visualization
 - Waiting Time Calculation
