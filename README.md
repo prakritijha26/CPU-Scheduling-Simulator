@@ -27,3 +27,9 @@ gcc main.c utils.c fcfs.c sjf.c rr.c priority.c -o scheduler
 ## How to Run
 
 ./scheduler
+
+## Future Improvements
+- Non-Preemptive Priority Scheduling
+- Better Gantt Chart Visualization
+- Queue-based Round Robin
+- GUI Version
